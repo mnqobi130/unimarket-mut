@@ -173,18 +173,7 @@ Open your browser at: **http://localhost:3000**
 ---
 
 ## Group Members
+-	Khanyile MS 22354752
+-	Dube S 22322900
+-	Mayisela SC 22409566
 
-| Name | Student Number | Role |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-
----
-
-## Lecturer
-Submit to GitHub and invite **xpiyose** as a collaborator.
-
----
-
-*Built for ITNP300/ITPR300 — Internet Programming 2 · Mangosuthu University of Technology · 2025*
